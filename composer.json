@@ -1,0 +1,11 @@
+{
+  "name": "task/orm",
+  "autoload": {
+    "psr-4": {
+      "ORM\\": ""
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^10.5"
+  }
+}
